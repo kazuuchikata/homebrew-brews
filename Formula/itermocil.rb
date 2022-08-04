@@ -3,7 +3,7 @@ class Itermocil < Formula
 
   desc "Allows you setup pre-configured layouts of panes in iTerm2"
   homepage "https://github.com/kazuuchikata/itermocil"
-  url "https://github.com/kazuuchikata/itermocil/archive/1.0.4.tar.gz"
+  url "https://github.com/kazuuchikata/itermocil/archive/refs/tags/v1.0.4.tar.gz"
   sha256 "34014b76c99ee7d8a42849c1fc324dc34c302780efe0a230148c4285ef417bd7"
   license "MIT"
 
